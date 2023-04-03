@@ -1,0 +1,19 @@
+.navBar{
+    margin: auto;
+    padding: 1rem 0;
+    text-align: center;
+    background: beige;
+    .navbar__titulo{
+
+    }
+    .navbar__menu{
+        width: 60%;
+        display: flex;
+        margin: auto;
+        .navbar__menu--li{
+            margin: auto;
+            list-style: none;
+        }
+
+    }
+}
